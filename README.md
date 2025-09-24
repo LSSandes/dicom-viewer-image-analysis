@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-A comprehensive medical imaging management system designed for Eskişehir Osmangazi University's Computer Engineering Department. This system combines DICOM image processing with advanced vector database capabilities for efficient storage and retrieval of medical imaging data.
+A comprehensive medical imaging management system. This system combines DICOM image processing with advanced vector database capabilities for efficient storage and retrieval of medical imaging data.
 
 **Key Features**:
 - DICOM image viewer with Hounsfield Unit conversion
